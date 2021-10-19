@@ -12,7 +12,7 @@ void draw(){
   point(690,50);
   point(710,50);
   point(730,50);
-  point(750,50);
+  
   
   point(50,60);
   point(50,70);
